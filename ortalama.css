@@ -6,6 +6,14 @@
   transform: translate(-50%, -50%);
 }
 
+#backgroundbody {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background: url(mamut.png);
+  background-size: cover;
+}
+
 #deneme {
     position: absolute;
     top: 50%;
