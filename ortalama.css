@@ -6,14 +6,3 @@
   transform: translate(-50%, -50%);
   color: #ffffff;
 }
-
-#backgroundbody {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-}
-
-#deneme {
-  margin-bottom: auto;
-}
